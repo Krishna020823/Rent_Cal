@@ -48,4 +48,9 @@ Each person's share is: 4175
 No external libraries are required.
 
 ## Author
-- Your Name Here
+Krishna Yadav
+
+Update
+
+Added Frontend using Streamlit for better ui .
+
